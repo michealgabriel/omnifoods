@@ -9,9 +9,9 @@ Completely designed in HTML & CSS.
 
 ## Screenshots
 
-![Header and Hero Section](/screenshots/Screenshot (01).png)
-![Tablet View](/screenshots/Screenshot (02).png)
-![Tablet View](/screenshots/Screenshot (03).png)
-![Mobile View](/screenshots/Screenshot (04).png)
-![Meals Section](/screenshots/Screenshot (05).png)
+![Header and Hero Section](/screenshots/1.png)
+![Tablet View](/screenshots/2.png)
+![Tablet View](/screenshots/3.png)
+![Mobile View](/screenshots/4.png)
+![Meals Section](/screenshots/5.png)
 
